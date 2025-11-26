@@ -43,7 +43,8 @@ It includes routing, protected pages, admin dashboard, add/delete product featur
 
 Technology	Purpose
 
-React.js	Frontend UI
+React.js	
+Frontend UI
 Vite	Build tool
 React Router	Routing
 CSS	Styling
